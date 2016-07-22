@@ -1,0 +1,19 @@
+{
+  "name": "Tattle",
+  "version": "1.0.0",
+  "description": "Its a public create room and chat app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SiddharthaChowdhury/Tattle.git"
+  },
+  "author": "Siddhartha + Surbhi + Anupam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiddharthaChowdhury/Tattle/issues"
+  },
+  "homepage": "https://github.com/SiddharthaChowdhury/Tattle"
+}
